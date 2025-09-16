@@ -12,4 +12,13 @@ Product Owner: The product owner works closely with the customers to ensure thei
 being addressed with the sprints. They likely add work to the backlog so the team knows they
 need to work on it.
 
-c. 
+c. Sprint Planning Meeting:
+1. Establish what needs to be accomplished during the sprint
+2. Assign tasks to different team members.
+Daily Standup Meeting:
+1. Discuss what was accomplished yesterday
+2. What needs to be accomplished today
+Sprint Review Meeting
+1. Discuss what was accomplished over the sprint
+2. Based on feedback, add needed work to the backlog to be completed in a future sprint.
+
