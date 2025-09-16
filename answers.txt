@@ -25,4 +25,4 @@ Sprint Review Meeting
 d. Epic: The big overall features. These often take multiple sprints to fully implement.
 Story: Smaller features that combined equal one epic. They don't take as long, though they could comprimise an entire sprint.
 Bug: Problems occuring with a task or story that need to be fixed. May be vital an needed to completed immediately, could be situational and done when not busy.
-Task: Very narrow objectives that take a short ammount of time to complete, likely at most a few days. multiple of these comprise a story.
+Task: Very narrow objectives that take a short ammount of time to complete, likely at most a few days. Multiple tasks comprise a story.
