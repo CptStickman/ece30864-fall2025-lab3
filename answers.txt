@@ -6,7 +6,8 @@ Cons:
 2. Teams need to be constantly communicating to make sure everyone is on the same page.
 
 b. Scrum Master: The scrum master is in charge of maintaing the scrum setup, working to create 
-sprints and assigning work to keep work from falling behind.
+sprints and assigning work to keep work from falling behind. They're the primary communicator 
+in the team. 
 Product Owner: The product owner works closely with the customers to ensure their needs are 
 being addressed with the sprints. They likely add work to the backlog so the team knows they
 need to work on it.
