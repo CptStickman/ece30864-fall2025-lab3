@@ -1,0 +1,14 @@
+a. Pros:
+1. Teams are able to be more flexible, responding better to changes in customer needs.
+2. Teams are able to see where everyone is in development, are offer to assist if needed.
+Cons:
+1. Teams aren't able to plan too far ahead, working only a month or so at a time.
+2. Teams need to be constantly communicating to make sure everyone is on the same page.
+
+b. Scrum Master: The scrum master is in charge of maintaing the scrum setup, working to create 
+sprints and assigning work to keep work from falling behind.
+Product Owner: The product owner works closely with the customers to ensure their needs are 
+being addressed with the sprints. They likely add work to the backlog so the team knows they
+need to work on it.
+
+c. 
