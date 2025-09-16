@@ -22,3 +22,7 @@ Sprint Review Meeting
 1. Discuss what was accomplished over the sprint
 2. Based on feedback, add needed work to the backlog to be completed in a future sprint.
 
+d. Epic: The big overall features. These often take multiple sprints to fully implement.
+Story: Smaller features that combined equal one epic. They don't take as long, though they could comprimise an entire sprint.
+Bug: Problems occuring with a task or story that need to be fixed. May be vital an needed to completed immediately, could be situational and done when not busy.
+Task: Very narrow objectives that take a short ammount of time to complete, likely at most a few days. multiple of these comprise a story.
